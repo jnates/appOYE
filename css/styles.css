@@ -1,11 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Architects+Daughter&family=Cormorant+Garamond:wght@300&display=swap');
-
-img{
-	max-width: 50px;
-	min-width: 50px;
+.logo {
+    max-width: 50px;
+    min-width: 50px;
 }
 
-a{
-	font-family: 'Architects Daughter', cursive;
-	font-size: 25px;
+.portada {
+    max-width: 500px;
+    min-width: 333px;
+}
+
+.space {
+    background-color: rgb(239, 245, 245);
+}
+
+a {
+    font-family: 'Architects Daughter', cursive;
+    font-size: 25px;
 }
